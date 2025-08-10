@@ -1,0 +1,16 @@
+# Bytecode & cache
+__pycache__/
+*.py[cod]
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files (if ever added)
+.env
+
+# Logs
+*.log
+
+# Data files (optional, if you don't want to commit test data)
+*.json
